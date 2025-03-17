@@ -24,6 +24,9 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef  
 
+## 🏅 GitHub Trophies  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)  
+
 ## 📊 GitHub Stats  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dar)](https://git.io/streak-stats)  
 [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
