@@ -1,3 +1,4 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=margam-niranjan&color=blue)](https://github.com/margam-niranjan)
 # 👋 Hi, I'm Niranjan!  
 
 🚀 Passionate about Java, Spring Boot, and DevOps | Android Developer | Competitive Programmer  
@@ -22,7 +23,12 @@
 - **Frameworks**: Spring Boot, Thymeleaf  
 - **DevOps**: Docker, Kubernetes, CI/CD  
 - **Tools**: Git, Linux (Kali), Postman  
-- **Competitive Programming**: LeetCode, CodeChef  
+- **Competitive Programming**: LeetCode, CodeChef
+
+  ## 🐍 Snake Contribution Animation
+ ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)
+
+
 
 ## 🏅 GitHub Trophies  
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai)](https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai)  

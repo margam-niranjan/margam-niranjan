@@ -1,28 +1,25 @@
-name: Generate Snake
+name: GitArtWork Contribution Graph
 
-on:
+on: 
+  push:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:
+    - cron: "0 0 * * 0"  # Runs weekly on Sunday at midnight
 
-jobs:
+jobs: 
   build:
+    name: Generate GitArtWork SVG
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
+      - name: Generate GitArtWork SVG
+        uses: jasineri/gitartwork@v1
         with:
-          github_user_name: margam-niranjan
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Use your GitHub username
+          user_name: margam-niranjan
+          # Set your custom text in the contribution graph
+          text: NIRANJAN 🚀
 
-      - name: Push Animation to Output Branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output  # This keeps changes separate from the main branch
-          folder: dist  # The folder where the snake animation is saved
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push Changes
+        uses: jasineri/simple-push-action@v1
