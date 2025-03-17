@@ -25,8 +25,9 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
 - 
-## 🎵 Now Playing on Spotify  
-[![Spotify](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)]()
+## 🎵 Now Playing on Spotify
+[![Spotify](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)
+
 
 
 
