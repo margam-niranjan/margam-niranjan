@@ -25,8 +25,9 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
 
-  ## 🐍 Snake Contribution Animation  
-![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/gitartwork.svg)  
+  ## 🐍 Snake Contribution Animation
+ ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## 🏅 GitHub Trophies  
