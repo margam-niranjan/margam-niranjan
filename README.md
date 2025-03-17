@@ -1,5 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=margam-niranjan&color=blue)](https://github.com/margam-niranjan)
-[![Niranjan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=margam-niranjan&theme=dark)](https://wakatime.com/@margam-niranjan)
+[![Niranjan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=margam_niranjan&theme=dark)](https://wakatime.com/@margam_niranjan)
 # 👋 Hi, I'm Niranjan!  
 
 🚀 Passionate about Java, Spring Boot, and DevOps | Android Developer | Competitive Programmer  
