@@ -26,10 +26,7 @@
 - **Competitive Programming**: LeetCode, CodeChef
 
 ## 🎵 Now Playing on Spotify  
-[![Spotify Now Playing](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)
-
-
-
+🔗 [Check out my Spotify Now Playing](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)
 
 
 ## 🏅 GitHub Trophies  
