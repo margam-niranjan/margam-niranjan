@@ -24,9 +24,10 @@
 - **DevOps**: Docker, Kubernetes, CI/CD  
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
-- 
 
-<iframe src="https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/" width="320" height="445" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+## 🎵 Now Playing on Spotify  
+[![Spotify Now Playing](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)
+
 
 
 
