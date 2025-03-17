@@ -18,13 +18,11 @@
 - **Hackathon Participant** – DevOps Domain  
 - **Attended Microsoft AI Tour – Bengaluru 2025**  
 
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-margam/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_chintu/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_chintu/)  
 
-## 🌐 Socials
-
+## 🌐 Socials  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/margam-niranjan)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/niranjan_chintu/)  
 
