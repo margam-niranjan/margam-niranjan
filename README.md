@@ -25,8 +25,6 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
 
-  ## 🐍 Snake Contribution Animation
- ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)
 
 
 
@@ -41,7 +39,10 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-margam/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/margam-niranjan)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/niranjan_chintu/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/niranjan_chintu/) 
+
+  ## 🐍 Snake Contribution Animation
+ ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)
 
 ### 🚀 Let's build something amazing together!  
 📧 **Email:** [niranjan.margam.14@gmail.com](mailto:niranjan.margam.14@gmail.com)  
