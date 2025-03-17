@@ -25,16 +25,17 @@
 - **Competitive Programming**: LeetCode, CodeChef  
 
 ## 🏅 GitHub Trophies  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai)](https://github.com/margam-niranjan)  
 
-## 📊 GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dar)](https://git.io/streak-stats)  
-[![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+## 📊 GitHub Stats & Contributions  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dar)](https://github.com/margam-niranjan)  
+[![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)](https://github.com/margam-niranjan)  
+[![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=margam-niranjan)](https://github.com/margam-niranjan)  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-margam/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/margam-niranjan)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/niranjan_chintu/)  
 
-
-### 🚀 Let's build something amazing together!  📧 **Email:** [niranjan.margam.14@gmail.com](mailto:niranjan.margam.14@gmail.com)  
+### 🚀 Let's build something amazing together!  
+📧 **Email:** [niranjan.margam.14@gmail.com](mailto:niranjan.margam.14@gmail.com)  
