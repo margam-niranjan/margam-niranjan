@@ -20,9 +20,23 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push Animation to Output Branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output  # This keeps changes separate from the main branch
-          folder: dist  # The folder where the snake animation is saved
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Setup Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Ensure `output` Branch Exists
+        run: |
+          git fetch origin output || git checkout --orphan output
+          git reset --hard
+          git clean -fd
+          git checkout -B output
+
+      - name: Commit and Push Changes
+        run: |
+          mv dist/* . 
+          git add github-contribution-grid-snake.gif github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake animation" || echo "No changes to commit"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
