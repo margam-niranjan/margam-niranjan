@@ -1,16 +1,25 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: margam-niranjan
-            # Text on contribution graph 
-            text: JASINERI
-       - uses: jasineri/simple-push-action@v1
+name: GitArtWork Contribution Graph
+
+on: 
+  push:
+  schedule:
+    - cron: "0 0 * * 0"  # Runs weekly on Sunday at midnight
+
+jobs:
+  build:
+    name: Generate GitArtWork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitArtWork SVG
+        uses: jasineri/gitartwork@v1
+        with:
+          # Use your GitHub username
+          user_name: margam-niranjan
+          # Set your custom text in the contribution graph
+          text: NIRANJAN 🚀
+
+      - name: Push Changes
+        uses: jasineri/simple-push-action@v1
