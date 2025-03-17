@@ -20,7 +20,7 @@
 
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/niranjan-margam/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-margam/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_chintu/)
 
 ## 🌐 Socials
