@@ -16,15 +16,16 @@
 ## 🔥 Experience  
 - **Technical Website Lead** – CSI, Anurag University  
 - **Hackathon Participant** – DevOps Domain  
-- **Attended Microsoft AI Tour – Bengaluru 2025**  
+- **Attended Microsoft AI Tour – Bengaluru 2025**
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-margam/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-margam/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_chintu/)  
 
 ## 🌐 Socials  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/margam-niranjan)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/niranjan_chintu/)  
+
 
 ## 🛠️ Tech Stack  
 - **Languages**: Java, C  
