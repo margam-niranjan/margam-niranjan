@@ -24,9 +24,10 @@
 - **DevOps**: Docker, Kubernetes, CI/CD  
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
+ 
+### 🎵 Now Playing on Spotify
+![Spotify Now Playing](https://spotify-app-jade-tau.vercel.app/api/spotify)
 
-## 🎵 Now Playing on Spotify  
-🔗 [Check out my Spotify Now Playing](https://spotify-h3h3dsqbz-margam-niranjans-projects.vercel.app/)
 
 
 ## 🏅 GitHub Trophies  
