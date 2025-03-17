@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats & Contributions  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dar)](https://github.com/margam-niranjan)  
 [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)](https://github.com/margam-niranjan)  
-[![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=margam-niranjan)](https://github.com/margam-niranjan)  
+[![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/margam-niranjan)  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-margam/)  
