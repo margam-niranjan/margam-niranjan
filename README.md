@@ -18,6 +18,16 @@
 - **Hackathon Participant** – DevOps Domain  
 - **Attended Microsoft AI Tour – Bengaluru 2025**  
 
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mellobai) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_chintu/)
+
+## 🌐 Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/margam-niranjan)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/niranjan_chintu/)  
+
 ## 🛠️ Tech Stack  
 - **Languages**: Java, C  
 - **Frameworks**: Spring Boot, Thymeleaf  
@@ -25,7 +35,7 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
  
-### 🎵 Now Playing on Niranjan's Device
+### 🎵 Now Playing on Spotify
 ![Spotify Now Playing](https://spotify-app-jade-tau.vercel.app/api/spotify)
 
 
@@ -38,10 +48,6 @@
 [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)  
 [![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-margam/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/margam-niranjan)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/niranjan_chintu/)  
 
 ## 🐍 Snake Contribution Animation  
 ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)  
