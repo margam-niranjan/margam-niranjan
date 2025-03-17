@@ -25,7 +25,7 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
  
-### 🎵 Now Playing on Spotify
+### 🎵 Now Playing on Niranjan's Device
 ![Spotify Now Playing](https://spotify-app-jade-tau.vercel.app/api/spotify)
 
 
