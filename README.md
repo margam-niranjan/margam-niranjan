@@ -25,7 +25,7 @@
 - **Competitive Programming**: LeetCode, CodeChef  
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=margam-niranjan&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark)](https://git.io/streak-stats)
 [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## 📫 Connect with Me  
