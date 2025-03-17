@@ -26,7 +26,7 @@
 - **Competitive Programming**: LeetCode, CodeChef
 
   ## 🐍 Snake Contribution Animation
- ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/github-contribution-grid-snake.svg)
+ ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)
 
 
 
