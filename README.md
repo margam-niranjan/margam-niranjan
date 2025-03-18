@@ -35,6 +35,7 @@
  
 ### 🎵 Now Playing on Niranjan's Device
 ![Not listening to anything right now.](https://spotify-app-jade-tau.vercel.app/api/spotify)
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31vk2alkrv6q63do5ue3kcaibp44&count={count})
 
 
 
