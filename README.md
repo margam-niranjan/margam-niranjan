@@ -1,5 +1,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=margam-niranjan&color=blue)](https://github.com/margam-niranjan)
 # 👋 Hi, I'm Niranjan!  
+#  Make it work, make it right, make it fast – then push to GitHub.
 
 🚀 Passionate about Java, Spring Boot, and DevOps | Android Developer | Competitive Programmer  
 
@@ -25,7 +26,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/margam-niranjan)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/niranjan_chintu/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-margam/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_chintu/)
  
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠️ Tech Stack  
 - **Languages**: Java, C  
@@ -36,11 +36,11 @@
 
 ## 🎵 Now Playing on Niranjan's Device  
 <p align="center"> 
+ <h3>A developer without music is like code without syntax—lifeless. Let the rhythm fuel your creativity and the melody guide your logic.</h3>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vk2alkrv6q63do5ue3kcaibp44" alt="Recently Played" />
   </br>
   <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="Currently Not Playing Any Song" />
 </p>
-
 
 
 
@@ -52,6 +52,8 @@
 [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)  
 [![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🐍 Snake Contribution Animation  
 ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)  
