@@ -34,9 +34,8 @@
 - **Competitive Programming**: LeetCode, CodeChef
 
 ## 📜 Inspiring Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<p>
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
 </p>
 
 ## 🎵 Now Playing on Niranjan's Device  
