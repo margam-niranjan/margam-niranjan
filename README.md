@@ -34,6 +34,9 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
 
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 🎵 Now Playing on Niranjan's Device  
 <h3>A developer without music is like code without syntax—lifeless. Let the rhythm fuel your creativity and the melody guide your logic.</h3>
 <p align="center">  
@@ -53,7 +56,6 @@
 [![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🐍 Snake Contribution Animation  
 ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)  
