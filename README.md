@@ -33,8 +33,8 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
  
-### 🎵 Now Playing on Spotify
-![Spotify is Not Playing Right Now..](https://spotify-app-jade-tau.vercel.app/api/spotify)
+### 🎵 Now Playing on Niranjan's Device
+![Not listening to anything right now.](https://spotify-app-jade-tau.vercel.app/api/spotify)
 
 
 
