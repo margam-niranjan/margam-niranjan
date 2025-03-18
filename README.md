@@ -59,8 +59,10 @@
 
 
 ## 🐍 Snake Contribution Animation  
-![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)  
-<img src="https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg">
+<p align="center">
+ <img src="https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg" alt="snake animation">
+</p>
+
 
 ## 🚀 Let's build something amazing together!  
 📧 **Email:** [niranjan.margam.14@gmail.com](mailto:niranjan.margam.14@gmail.com)  
