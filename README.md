@@ -36,10 +36,10 @@
 ## 🎵 Now Playing on Niranjan's Device  
 <p align="center">
  
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vk2alkrv6q63do5ue3kcaibp44" alt="Recently Played" />
+  <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="Currently Playing" />
   <br>
  
-  <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="Currently Playing" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vk2alkrv6q63do5ue3kcaibp44" alt="Recently Played" />
 </p>
 
 
