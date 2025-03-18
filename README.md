@@ -32,17 +32,18 @@
 - **Competitive Programming**: LeetCode, CodeChef  
 
 ## 📜 Inspiring Quote  
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>  
+</p>
 
 ## 🎵 Now Playing  
 *A developer without music is like code without syntax—lifeless. Let the rhythm fuel your creativity and the melody guide your logic.*  
 <p align="center">
-  
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vk2alkrv6q63do5ue3kcaibp44" alt="Recently Played"/>  
 <br>
 <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="Currently Playing"/>  
-
 </p>
+
 ## 🏅 GitHub Trophies  
 <img src="https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai" alt="GitHub Trophies"/>  
 
