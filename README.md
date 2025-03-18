@@ -34,7 +34,7 @@
 - **Competitive Programming**: LeetCode, CodeChef
  
 ### 🎵 Now Playing on Spotify
-![Spotify Now Playing](https://spotify-app-jade-tau.vercel.app/api/spotify)
+![Spotify is Not Playing Right Now..](https://spotify-app-jade-tau.vercel.app/api/spotify)
 
 
 
