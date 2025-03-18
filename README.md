@@ -49,7 +49,10 @@
 
 
 ## 🏅 GitHub Trophies  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai)](https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai)  
+[![GitHub Trophies]()](https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai)  
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai">
+</p>
 
 ## 📊 GitHub Stats & Contributions  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark)  
