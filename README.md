@@ -34,7 +34,7 @@
 - **Competitive Programming**: LeetCode, CodeChef
 
 ## 📜 Inspiring Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🎵 Now Playing on Niranjan's Device  
 <h3>A developer without music is like code without syntax—lifeless. Let the rhythm fuel your creativity and the melody guide your logic.</h3>
