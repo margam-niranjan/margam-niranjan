@@ -59,5 +59,8 @@
 ## 🐍 Snake Contribution Animation  
 ![Snake Animation](https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg)  
 
-### 🚀 Let's build something amazing together!  
+## 🚀 Let's build something amazing together!  
 📧 **Email:** [niranjan.margam.14@gmail.com](mailto:niranjan.margam.14@gmail.com)  
+
+## 💰 Buy Me A Coffee
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
