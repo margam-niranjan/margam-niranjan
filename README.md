@@ -54,13 +54,10 @@
 </p>
 
 ## 📊 GitHub Stats & Contributions  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark) 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark">
  <img src="[https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai](https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark)">
  <img src="https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>=
-<p align="center">
  </p>
 
 
