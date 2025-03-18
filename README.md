@@ -55,7 +55,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark" alt="GitHub Streak"/> 
 </p>
 
-## 🐍 Snake Contribution Animation  
+## 🐍 Contribution Animation  
 <img src="https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg" alt="Snake Animation"/>  
 
 ## 🚀 Let's Build Something Amazing!  
