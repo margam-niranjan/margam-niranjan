@@ -32,10 +32,11 @@
 - **DevOps**: Docker, Kubernetes, CI/CD  
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
- 
-### 🎵 Now Playing on Niranjan's Device
-![Not listening to anything right now.](https://spotify-app-jade-tau.vercel.app/api/spotify)
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31vk2alkrv6q63do5ue3kcaibp44)
+
+
+## 🎵 Now Playing on Niranjan's Device  
+![Not listening to anything right now.](https://spotify-app-jade-tau.vercel.app/api/spotify)  
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31vk2alkrv6q63do5ue3kcaibp44)  
 
 
 
