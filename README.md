@@ -35,8 +35,8 @@
 - **Competitive Programming**: LeetCode, CodeChef
 
 ## 🎵 Now Playing on Niranjan's Device  
-<p align="center"> 
- <h3>A developer without music is like code without syntax—lifeless. Let the rhythm fuel your creativity and the melody guide your logic.</h3>
+<h3>A developer without music is like code without syntax—lifeless. Let the rhythm fuel your creativity and the melody guide your logic.</h3>
+<p align="center">  
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vk2alkrv6q63do5ue3kcaibp44" alt="Recently Played" />
   </br>
   <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="Currently Not Playing Any Song" />
