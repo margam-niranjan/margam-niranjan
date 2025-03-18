@@ -1,7 +1,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=margam-niranjan&color=blue)](https://github.com/margam-niranjan)
 # 👋 Hi, I'm Niranjan!  
-#  Make it work, make it right, make it fast – then push to GitHub.
-
+🔥 Make it work, make it right, make it fast – then push to GitHub.
 🚀 Passionate about Java, Spring Boot, and DevOps | Android Developer | Competitive Programmer  
 
 ## 🏆 Achievements  
