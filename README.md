@@ -34,7 +34,7 @@
 - **Tools**: Git, Linux (Kali), Postman  
 - **Competitive Programming**: LeetCode, CodeChef
 
-  
+## 📜 Inspiring Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🎵 Now Playing on Niranjan's Device  
