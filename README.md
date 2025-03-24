@@ -45,6 +45,9 @@
 <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="No song is currently playing on Niranjan's device, but the rhythm will return soon! 🎵✨"/>  
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🏅 GitHub Trophies  
 <img src="https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai" alt="GitHub Trophies"/>  
 
