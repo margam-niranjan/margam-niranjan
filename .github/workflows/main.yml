@@ -1,25 +1,24 @@
-name: GitArtWork Contribution Graph
+name: GitHub-Profile-3D-Contrib
 
-on: 
-  push:
-  schedule:
-    - cron: "0 0 * * 0"  # Runs weekly on Sunday at midnight
+on:
+  schedule: # 09:00 BST == 1:00 UTC
+    - cron: "0 1 * * *"
+  workflow_dispatch:
 
-jobs: 
+jobs:
   build:
-    name: Generate GitArtWork SVG
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate GitArtWork SVG
-        uses: jasineri/gitartwork@v1
-        with:
-          # Use your GitHub username
-          user_name: margam-niranjan
-          # Set your custom text in the contribution graph
-          text: NIRANJAN 🚀
-
-      - name: Push Changes
-        uses: jasineri/simple-push-action@v1
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name mxsm
+          git config user.email niranjan.margam.14@gmail.com
+          git add -A .
+          git commit -m "generated"
+          git push
