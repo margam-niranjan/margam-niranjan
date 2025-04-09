@@ -4,9 +4,7 @@ counting of visitors to this page in this section started from April 9, 2025
 
 <img src="https://count.getloli.com/get/@:margam-niranjan?theme=gelbooru-h" alt=":name" />
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=margam-niranjan" width="auto"></img>## 👋 Hi, I'm Niranjan!  
+## 👋 Hi, I'm Niranjan!  
 
 🔥 *Make it work, make it right, make it fast – then push to GitHub.*  
 🚀 Passionate about **Java, Spring Boot, and DevOps** | **Android Developer** | **Competitive Programmer**  
@@ -52,8 +50,6 @@ counting of visitors to this page in this section started from April 9, 2025
 <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="No song is currently playing on Niranjan's device, but the rhythm will return soon! 🎵✨"/>  
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🏅 GitHub Trophies  
 <img src="https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai" alt="GitHub Trophies"/>  
@@ -66,8 +62,9 @@ counting of visitors to this page in this section started from April 9, 2025
 <img src="https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark" alt="GitHub Streak"/> 
 </p>
 
-## 🐍 Contribution Animation  
-<img src="https://github.com/margam-niranjan/margam-niranjan/blob/output/gitartwork.svg" alt="Snake Animation"/>  
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=margam-niranjan" width="auto"></img>  
 
 ## 🚀 Let's Build Something Amazing!  
 📧 **Email:** [niranjan.margam.14@gmail.com](mailto:niranjan.margam.14@gmail.com)  
