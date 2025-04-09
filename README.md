@@ -30,12 +30,20 @@ counting of visitors to this page in this section started from April 9, 2025
 ## 🌐 Socials  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/margam-niranjan)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/niranjan_chintu/)  
 
-## 🛠️ Tech Stack  
-- **Languages**: Java, C  
-- **Frameworks**: Spring Boot, Thymeleaf  
-- **DevOps**: Docker, Kubernetes, CI/CD  
-- **Tools**: Git, Linux (Kali), Postman  
-- **Competitive Programming**: LeetCode, CodeChef  
+## Technologies 💻
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="50"/>                 
+</p>
 
 ## 📜 Random Inspiring Quote  
 <p align="center">
@@ -50,6 +58,9 @@ counting of visitors to this page in this section started from April 9, 2025
 <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="No song is currently playing on Niranjan's device, but the rhythm will return soon! 🎵✨"/>  
 </p>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=margam-niranjan" width="auto"></img>  
 
 ## 🏅 GitHub Trophies  
 <img src="https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai" alt="GitHub Trophies"/>  
@@ -62,9 +73,6 @@ counting of visitors to this page in this section started from April 9, 2025
 <img src="https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark" alt="GitHub Streak"/> 
 </p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=margam-niranjan" width="auto"></img>  
 
 ## 🚀 Let's Build Something Amazing!  
 📧 **Email:** [niranjan.margam.14@gmail.com](mailto:niranjan.margam.14@gmail.com)  
