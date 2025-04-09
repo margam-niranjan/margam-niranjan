@@ -1,5 +1,12 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=margam-niranjan&color=blue)](https://github.com/margam-niranjan)
-## 👋 Hi, I'm Niranjan!  
+
+### Profile Views
+counting of visitors to this page in this section started from July 30, 2023
+
+<img src="https://count.getloli.com/get/@:margam-niranjan?theme=gelbooru-h" alt=":name" />
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=margam-niranjan" width="auto"></img>## 👋 Hi, I'm Niranjan!  
 
 🔥 *Make it work, make it right, make it fast – then push to GitHub.*  
 🚀 Passionate about **Java, Spring Boot, and DevOps** | **Android Developer** | **Competitive Programmer**  
