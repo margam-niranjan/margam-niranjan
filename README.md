@@ -70,8 +70,6 @@ counting of visitors to this page in this section started from April 9, 2025
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=margam-niranjan&show_icons=true&theme=dark" alt="GitHub Stats"/>  
 <img src="https://github-contributor-stats.vercel.app/api?username=margam-niranjan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributions"/>  
-  <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=margam-niranjan&theme=dark" alt="GitHub Streak"/> 
 </p>
 
 
