@@ -58,6 +58,7 @@ counting of visitors to this page in this section started from April 9, 2025
 <img src="https://spotify-app-jade-tau.vercel.app/api/spotify" alt="No song is currently playing on Niranjan's device, but the rhythm will return soon! 🎵✨"/>  
 </p>
 
+## 📈 GitHub Contribution
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=margam-niranjan" width="auto"></img>  
