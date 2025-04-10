@@ -21,7 +21,6 @@ counting of visitors to this page in this section started from April 9, 2025
 
 ## 🔥 Experience  
 - **Technical Website Lead** – CSI, Anurag University  
-- **Hackathon Participant** – DevOps Domain  
 - **Attended Microsoft AI Tour – Bengaluru 2025**  
 
 ## 📫 Connect with Me  
