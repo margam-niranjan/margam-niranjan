@@ -60,8 +60,9 @@ counting of visitors to this page in this section started from April 9, 2025
 
 ## 📈 GitHub Contribution
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
+<center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=margam-niranjan" width="auto"></img>  
+</center>
 
 ## 🏅 GitHub Trophies  
 <img src="https://github-profile-trophy.vercel.app/?username=margam-niranjan&theme=monokai" alt="GitHub Trophies"/>  
