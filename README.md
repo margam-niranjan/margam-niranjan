@@ -1,8 +1,9 @@
 
 ### Profile Views
 counting of visitors to this page in this section started from April 9, 2025
-
+<center>
 <img src="https://count.getloli.com/get/@:margam-niranjan?theme=gelbooru-h" alt=":name" />
+</center>
 
 ## 👋 Hi, I'm Niranjan!  
 
