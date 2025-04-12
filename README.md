@@ -1,9 +1,10 @@
 
 ### Profile Views
 counting of visitors to this page in this section started from April 9, 2025
-<div style="text-align: center;">
+<p align="center">
   <img src="https://count.getloli.com/get/@:margam-niranjan?theme=gelbooru-h" alt="margam-niranjan" />
-</div>
+</p>
+
 
 
 ## 👋 Hi, I'm Niranjan!  
@@ -62,9 +63,10 @@ counting of visitors to this page in this section started from April 9, 2025
 
 ## 📈 GitHub Contribution
 ![](./profile-3d-contrib/profile-green-animate.svg)
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=margam-niranjan" alt="GitHub Streak Stats" />
-</div>
+</p>
+
 
 
 ## 🏅 GitHub Trophies  
