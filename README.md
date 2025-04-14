@@ -10,7 +10,7 @@ counting of visitors to this page in this section started from April 9, 2025
 ## 👋 Hi, I'm Niranjan!  
 
 🔥 *Make it work, make it right, make it fast – then push to GitHub.*  
-🚀 Passionate about **Java, Spring Boot, and DevOps** | **Android Developer** | **Competitive Programmer**  
+🚀 Passionate about **Java, Spring Boot, and DevOps** | **Android Developer** | **Competitive Programmer**.  
 
 ## 🏆 Achievements  
 - **Top 20%** in LeetCode Contests  
