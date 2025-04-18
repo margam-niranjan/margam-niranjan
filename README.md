@@ -17,7 +17,7 @@ counting of visitors to this page in this section started from April 9, 2025
 - **Runner** in TechHack for Developing Application – 2024  
 - **3rd Place** in Code-a-thon at CSI State Convention  
 
-## Technologies 💻
+## 💻 Technologies 
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>
