@@ -2,7 +2,7 @@
 ### Profile Views
 counting of visitors to this page in this section started from April 9, 2025
 <p align="center">
-  <img src="https://count.getloli.com/get/@:margam-niranjan?theme=gelbooru-h" alt="margam-niranjan" />
+  <img src="https://count.getloli.com/get/@:margam-niranjan?theme=kasuterura-3" alt="margam-niranjan" />
 </p>
 
 
