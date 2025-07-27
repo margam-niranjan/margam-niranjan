@@ -15,7 +15,6 @@ counting of visitors to this page in this section started from April 9, 2025
 
 ## 🏆 Achievements  
 - **Top 20%** in LeetCode Contests  
-- **Runner** in TechHack for Developing Application – 2024  
 - **3rd Place** in Code-a-thon at CSI State Convention  
 
 ## 💻 Technologies 
